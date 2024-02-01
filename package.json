@@ -1,0 +1,31 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repositorio do curso nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredipaulo/cursonode.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mogodb",
+    "udp",
+    "ctypto"
+  ],
+  "author": "André Di Paulo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andredipaulo/cursonode/issues"
+  },
+  "homepage": "https://github.com/andredipaulo/cursonode#readme"
+}
